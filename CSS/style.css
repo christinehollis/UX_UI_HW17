@@ -1,0 +1,16 @@
+.skills {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+button {
+    background-color: lightblue;
+    color: black;
+    font-size: 12px;
+    width: 50%;
+}
+
+.heroImg {
+    background-image: url(file:///Users/charliehollis/Downloads/Pics%20of%20me/heroImg.png);
+}
+
